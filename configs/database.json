@@ -1,0 +1,9 @@
+[
+	{
+    	"host":"localhost",
+    	"username":"xx",
+    	"password":"test",
+    	"dbname":"dd",
+    	"charset":"UTF-8"
+	}
+]
